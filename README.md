@@ -21,7 +21,7 @@ This skill contains 27 rules across 7 categories, prioritized by impact to guide
 ### Claude Code
 
 ```bash
-npx add-skill lit-best-practices
+npx skills add artmsilva/lit-best-practices
 ```
 
 ### Manual Installation
