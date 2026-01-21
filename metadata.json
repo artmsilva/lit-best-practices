@@ -1,0 +1,22 @@
+{
+  "name": "lit-best-practices",
+  "version": "1.0.0",
+  "description": "Lit web components best practices for AI agents and LLMs",
+  "abstract": "Comprehensive best practices guide for Lit web components, designed for AI agents and LLMs. Contains 27 rules across 7 categories, prioritized by impact from critical (pure render, static styles, composed events) to incremental (memoization, batching). Each rule includes detailed explanations, real-world examples comparing incorrect vs. correct implementations, and specific impact descriptions to guide automated refactoring and code generation.",
+  "author": "community",
+  "license": "MIT",
+  "keywords": [
+    "lit",
+    "web-components",
+    "custom-elements",
+    "shadow-dom",
+    "best-practices",
+    "ai-agents",
+    "llm",
+    "claude-code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artmsilva/agent-skill-lit-best-practices"
+  }
+}
